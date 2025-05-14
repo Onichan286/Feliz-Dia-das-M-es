@@ -1,0 +1,57 @@
+header {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ }
+ body {
+ background: linear-gradient(to right, #fa5d8c, #ffe6f7);
+ font-family: 'Finger Paint', sans-serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ padding: 20px; }
+
+ 
+ .card {
+ background: linear-gradient(to right, #ffb9ce, #ffe6f7);
+ border-radius: 20px;
+ box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+ max-width: 400px;
+ width: 100%;
+ text-align: center;
+ padding: 30px 25px;
+ animation: fadeIn 1.2s ease-out;
+ }
+ .card h1 {
+ font-family: 'Finger Paint', cursive;
+ font-size: 2.5rem;
+ color: #ff0055;
+ margin-bottom: 10px;
+ }
+ .card p {
+ font-size: 1.1rem;
+ color: #333;
+ margin-top: 15px;
+ line-height: 1.6;
+ }
+ .card img {
+ width: 120px;
+ margin: 25px 0;
+ }
+ .botao {
+ display: inline-block;
+ margin-top: 20px;
+ padding: 10px 25px;
+ background-color: #c8255c;
+ color: white;
+ text-decoration: none;
+ border-radius: 30px;
+ font-weight: 600;
+ transition: all 0.3s ease;
+ }
+
+
+ p {
+    font-family: 'Finger Paint', cursive;
+ }
