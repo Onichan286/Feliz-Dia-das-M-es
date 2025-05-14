@@ -1,0 +1,24 @@
+.alinhar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+
+}
+
+.alinhar img {
+    width: 10em;
+    height: 7em;
+
+
+
+}
+
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-pink-purple-romantic-love-background-design-backgroundlove-backgroundholiday-backgroundmarch-image_70042.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
